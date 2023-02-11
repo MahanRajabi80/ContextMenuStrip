@@ -1,0 +1,27 @@
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\bin\Debug\Example 14-2.exe
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\bin\Debug\Example 14-2.pdb
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\Example_14_2.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\Example_14_2.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.exe
+C:\Users\M-H Computer\Desktop\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.pdb
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.exe
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.pdb
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\bin\Debug\Example 14-2.exe
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\bin\Debug\Example 14-2.pdb
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example_14_2.Form1.resources
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example_14_2.Properties.Resources.resources
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\bin\Debug\Example 14-2.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\bin\Debug\Example 14-2.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example_14_2.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example_14_2.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part14\Example 14-2\Example 14-2\obj\x86\Debug\Example 14-2.pdb
